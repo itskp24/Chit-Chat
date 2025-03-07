@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "tsx server/index.ts",
     "build": "tsc",
-    "start": "vite"
   },
   "dependencies": {
     "@emoji-mart/data": "^1.2.1",
