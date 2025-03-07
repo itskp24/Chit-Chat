@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "tsx server/index.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "start":"tsx server/index.ts"
   },
   "dependencies": {
     "@emoji-mart/data": "^1.2.1",
